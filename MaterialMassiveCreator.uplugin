@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MaterialMassiveCreator",
+	"Description": "It creates material assets from json input file",
+	"Category": "Other",
+	"CreatedBy": "Geg",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MaterialMassiveCreator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
